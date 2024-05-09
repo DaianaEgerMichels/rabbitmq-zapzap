@@ -1,3 +1,3 @@
-# Fila RabbitMQ
+# RabbitMQ
 
-Construção de um sistema que faz uso de uma fila RabbitMQ para o envio de mensagens, simulando o envio de mensagens do whatsapp.
+Construction of a system that uses a RabbitMQ queue to send messages, simulating sending WhatsApp messages.
